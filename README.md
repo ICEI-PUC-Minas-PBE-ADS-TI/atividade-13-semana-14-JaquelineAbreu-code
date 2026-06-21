@@ -32,7 +32,5 @@ Este projeto implementa um **Dashboard Dinâmico e Responsivo** para visualizaç
    - Servir dados persistidos em `db/db.json`
 
 
-
-<<  COLOQUE A IMAGEM DA TELA 1 AQUI >>
-![Print Console.log](/atividade-13-semana-14-JaquelineAbreu-code/Imagens/dash1.jpeg)
-![Print Console.log](/atividade-13-semana-14-JaquelineAbreu-code/Imagens/dash2.jpeg)
+![Print Console.log](/Imagens/dash1.jpeg)
+![Print Console.log](/Imagens/dash2.jpeg)

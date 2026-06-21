@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+
+    <title>Dashboard de Filmes</title>
+
+    <link rel="stylesheet" href="assets/css/styles.css">
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+    <header>
+        <h1>Dashboard de Filmes</h1>
+    </header>
+
+    <section class="cards">
+
+        <div class="card">
+            <h3>Total de Filmes</h3>
+            <p id="totalFilmes">0</p>
+        </div>
+
+        <div class="card">
+            <h3>Média das Notas</h3>
+            <p id="mediaNotas">0</p>
+        </div>
+
+        <div class="card">
+            <h3>Filme Mais Recente</h3>
+            <p id="filmeRecente">-</p>
+        </div>
+
+    </section>
+
+    <section class="graficos">
+
+        <div class="grafico">
+            <h2>Filmes por Gênero</h2>
+            <canvas id="graficoGenero"></canvas>
+        </div>
+
+        <div class="grafico">
+            <h2>Distribuição das Notas</h2>
+            <canvas id="graficoNotas"></canvas>
+        </div>
+
+        <div class="grafico">
+            <h2>Lançamentos por Ano</h2>
+            <canvas id="graficoAno"></canvas>
+        </div>
+
+    </section>
+
+    <script src="assets/scripts/app.js"></script>
+
+</body>
+</html>

@@ -1,18 +1,144 @@
 {
-  "usuarios": [
+  "filmes": [
     {
-      "id": "187cb7e5-e097-4224-8bc7-b610c855e2b1",
-      "login": "admin",
-      "senha": "123",
-      "nome": "Administrador do Sistema",
-      "email": "admin@abc.com"
+      "id": 1,
+      "titulo": "Interestelar",
+      "genero": "Ficção Científica",
+      "nota": 8.9,
+      "ano": 2014
     },
     {
-      "id": "ec37c83d-4b7f-458d-9e10-3fda7d37cd3e",
-      "login": "user",
-      "senha": "123",
-      "nome": "Usuario Comum",
-      "email": "user@abc.com"
+      "id": 2,
+      "titulo": "O Poderoso Chefão",
+      "genero": "Drama",
+      "nota": 9.2,
+      "ano": 1972
+    },
+    {
+      "id": 3,
+      "titulo": "A Origem",
+      "genero": "Ficção Científica",
+      "nota": 8.8,
+      "ano": 2010
+    },
+    {
+      "id": 4,
+      "titulo": "Clube da Luta",
+      "genero": "Drama",
+      "nota": 8.8,
+      "ano": 1999
+    },
+    {
+      "id": 5,
+      "titulo": "Pulp Fiction",
+      "genero": "Crime",
+      "nota": 8.9,
+      "ano": 1994
+    },
+    {
+      "id": 6,
+      "titulo": "Forrest Gump",
+      "genero": "Drama",
+      "nota": 8.8,
+      "ano": 1994
+    },
+    {
+      "id": 7,
+      "titulo": "Matrix",
+      "genero": "Ficção Científica",
+      "nota": 8.7,
+      "ano": 1999
+    },
+    {
+      "id": 8,
+      "titulo": "Cidade de Deus",
+      "genero": "Crime",
+      "nota": 8.6,
+      "ano": 2002
+    },
+    {
+      "id": 9,
+      "titulo": "Parasita",
+      "genero": "Suspense",
+      "nota": 8.5,
+      "ano": 2019
+    },
+    {
+      "id": 10,
+      "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+      "genero": "Fantasia",
+      "nota": 8.8,
+      "ano": 2001
+    },
+    {
+      "id": 11,
+      "titulo": "Gladiador",
+      "genero": "Ação",
+      "nota": 8.5,
+      "ano": 2000
+    },
+    {
+      "id": 12,
+      "titulo": "Titanic",
+      "genero": "Romance",
+      "nota": 7.9,
+      "ano": 1997
+    },
+    {
+      "id": 13,
+      "titulo": "Coringa",
+      "genero": "Drama",
+      "nota": 8.4,
+      "ano": 2019
+    },
+    {
+      "id": 14,
+      "titulo": "O Rei Leão",
+      "genero": "Animação",
+      "nota": 8.5,
+      "ano": 1994
+    },
+    {
+      "id": 15,
+      "titulo": "Toy Story",
+      "genero": "Animação",
+      "nota": 8.3,
+      "ano": 1995
+    },
+    {
+      "id": 16,
+      "titulo": "Vingadores: Ultimato",
+      "genero": "Ação",
+      "nota": 8.4,
+      "ano": 2019
+    },
+    {
+      "id": 17,
+      "titulo": "Whiplash",
+      "genero": "Drama",
+      "nota": 8.5,
+      "ano": 2014
+    },
+    {
+      "id": 18,
+      "titulo": "A Viagem de Chihiro",
+      "genero": "Animação",
+      "nota": 8.6,
+      "ano": 2001
+    },
+    {
+      "id": 19,
+      "titulo": "Mad Max: Estrada da Fúria",
+      "genero": "Ação",
+      "nota": 8.1,
+      "ano": 2015
+    },
+    {
+      "id": 20,
+      "titulo": "O Grande Hotel Budapeste",
+      "genero": "Comédia",
+      "nota": 8.1,
+      "ano": 2014
     }
   ]
 }
